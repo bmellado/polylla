@@ -1,0 +1,5922 @@
+LongestEdges 1972
+
+le 2
+le 0
+le 1
+le 2
+le 0
+le 1
+le 2
+le 2
+le 1
+le 0
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 2
+le 0
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 0
+le 1
+le 0
+le 0
+le 2
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 2
+le 2
+le 2
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 2
+le 2
+le 2
+le 1
+le 0
+le 1
+le 1
+le 0
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 0
+le 2
+le 1
+le 1
+le 0
+le 0
+le 2
+le 2
+le 0
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 0
+le 1
+le 1
+le 2
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 0
+le 2
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 0
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 1
+le 0
+le 1
+le 0
+le 0
+le 2
+le 1
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 0
+le 1
+le 2
+le 0
+le 0
+le 2
+le 1
+le 2
+le 2
+le 2
+le 2
+le 0
+le 1
+le 2
+le 2
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 0
+le 2
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 2
+le 0
+le 2
+le 0
+le 2
+le 2
+le 1
+le 2
+le 2
+le 2
+le 2
+le 1
+le 0
+le 1
+le 2
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 0
+le 2
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 0
+le 0
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 2
+le 0
+le 2
+le 0
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 0
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 2
+le 2
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 2
+le 0
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 2
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 0
+le 2
+le 1
+le 1
+le 0
+le 0
+le 1
+le 2
+le 1
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 1
+le 0
+le 0
+le 0
+le 1
+le 0
+le 0
+le 0
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 0
+le 2
+le 2
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 2
+le 2
+le 0
+le 1
+le 2
+le 2
+le 1
+le 0
+le 0
+le 0
+le 0
+le 2
+le 1
+le 0
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 1
+le 2
+le 1
+le 0
+le 2
+le 0
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 2
+le 0
+le 1
+le 1
+le 2
+le 0
+le 2
+le 0
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 0
+le 1
+le 1
+le 0
+le 1
+le 2
+le 0
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 0
+le 2
+le 0
+le 1
+le 1
+le 2
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 0
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 1
+le 2
+le 2
+le 0
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 0
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 0
+le 2
+le 0
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 0
+le 1
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 0
+le 1
+le 1
+le 2
+le 1
+le 0
+le 1
+le 1
+le 0
+le 0
+le 2
+le 0
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 0
+le 0
+le 2
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 1
+le 0
+le 0
+le 0
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 0
+le 0
+le 1
+le 1
+le 0
+le 0
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 0
+le 2
+le 0
+le 0
+le 0
+le 1
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 0
+le 2
+le 2
+le 2
+le 1
+le 2
+le 1
+le 2
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 2
+le 2
+le 0
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 0
+le 2
+le 0
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 2
+le 1
+le 0
+le 2
+le 2
+le 1
+le 0
+le 0
+le 1
+le 0
+le 0
+le 2
+le 0
+le 2
+le 0
+le 2
+le 0
+le 2
+le 0
+le 0
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 0
+le 0
+le 2
+le 2
+le 2
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 0
+le 0
+le 2
+le 1
+le 0
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 0
+le 0
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 2
+le 1
+le 0
+le 0
+le 0
+le 0
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 0
+le 0
+le 0
+le 1
+le 1
+le 0
+le 1
+le 0
+le 2
+le 2
+le 1
+le 2
+le 0
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 0
+le 2
+le 0
+le 1
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 2
+le 2
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 2
+le 2
+le 0
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 0
+le 2
+le 2
+le 2
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 0
+le 1
+le 0
+le 1
+le 1
+le 0
+le 0
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 2
+le 2
+le 0
+le 2
+le 2
+le 2
+le 0
+le 1
+le 2
+le 0
+le 0
+le 2
+le 2
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 0
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 1
+le 1
+le 0
+le 0
+le 0
+le 2
+le 1
+le 2
+le 0
+le 1
+le 0
+le 1
+le 2
+le 2
+le 1
+le 2
+le 0
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 0
+le 2
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 2
+le 2
+le 2
+le 1
+le 1
+le 0
+le 0
+le 1
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 1
+le 0
+le 1
+le 2
+le 0
+le 1
+le 1
+le 2
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 1
+le 2
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 2
+le 2
+le 0
+le 2
+le 1
+le 0
+le 2
+le 2
+le 1
+le 0
+le 1
+le 1
+le 2
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 0
+le 0
+le 1
+le 0
+le 0
+le 2
+le 2
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 1
+le 0
+le 1
+le 1
+le 0
+le 0
+le 2
+le 0
+le 0
+le 2
+le 1
+le 1
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 0
+le 1
+le 0
+le 0
+le 2
+le 0
+le 0
+le 1
+le 0
+le 2
+le 2
+le 2
+le 0
+le 1
+le 0
+le 0
+le 1
+le 0
+le 2
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 0
+le 2
+le 2
+le 2
+le 0
+le 2
+le 1
+le 2
+le 2
+le 2
+le 1
+le 0
+le 1
+le 2
+le 2
+le 0
+le 0
+le 1
+le 1
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 0
+le 0
+le 0
+le 2
+le 1
+le 2
+le 1
+le 0
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 0
+le 2
+le 0
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 1
+le 1
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 1
+le 1
+le 1
+le 1
+le 2
+le 2
+le 2
+le 0
+le 1
+le 0
+le 1
+le 0
+le 2
+le 0
+le 1
+le 2
+le 0
+le 2
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 0
+le 0
+le 2
+le 1
+le 0
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 1
+le 1
+le 1
+le 0
+le 0
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 0
+le 1
+le 0
+le 1
+le 0
+le 1
+le 2
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 0
+le 2
+le 2
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 0
+le 2
+le 0
+le 1
+le 1
+le 1
+le 0
+le 2
+le 2
+le 2
+le 0
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 1
+le 2
+le 1
+le 1
+le 1
+le 1
+le 1
+le 1
+le 2
+le 1
+le 2
+le 2
+le 0
+le 0
+le 2
+le 2
+le 2
+le 0
+le 0
+le 1
+le 2
+le 1
+le 1
+le 0
+le 2
+le 1
+le 1
+le 1
+le 0
+le 0
+le 0
+le 2
+le 2
+le 1
+le 1
+le 2
+le 0
+le 0
+le 1
+le 2
+le 0
+le 0
+le 1
+le 2
+le 0
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 2
+le 1
+le 0
+le 0
+le 1
+le 1
+le 0
+le 1
+le 2
+le 1
+le 2
+le 1
+le 0
+le 0
+le 1
+le 1
+le 2
+le 2
+le 1
+le 0
+le 1
+le 1
+le 2
+le 2
+le 1
+le 2
+le 1
+le 1
+le 0
+le 0
+le 0
+le 2
+le 1
+le 2
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 0
+le 1
+le 2
+le 0
+le 1
+le 1
+le 0
+le 0
+le 1
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 1
+le 2
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 2
+le 1
+le 2
+le 2
+le 1
+le 2
+le 2
+le 1
+le 0
+le 2
+le 1
+le 1
+le 2
+le 2
+le 0
+le 2
+le 1
+le 1
+le 0
+le 1
+le 0
+le 2
+le 2
+le 0
+le 0
+le 2
+le 2
+le 0
+le 1
+le 2
+le 2
+le 1
+le 2
+le 0
+le 1
+le 0
+le 1
+le 1
+le 1
+le 2
+le 0
+le 1
+le 0
+le 2
+le 1
+le 0
+le 1
+le 1
+le 2
+le 2
+Seed 1972
+
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 1
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 1
+s 1
+s 0
+s 1
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 1
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 1
+s 0
+s 0
+s 1
+s 0
+s 0
+s 0
+s 0
+s 0
+s 0
+s 1
+s 0
+s 0
+FrontierEdges 1972
+
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 -1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 1 1
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe -1 1 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe -1 1 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 0 1 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 1 0
+fe 0 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe -1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 -1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 -1 0
+fe 1 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 0
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 1 1
+fe 0 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe -1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 0
+fe 0 1 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 1 0
+fe 0 1 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 0 1 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 1 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 1 1
+fe 0 1 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe -1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 -1 0
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 0
+fe 0 1 1
+fe 0 0 1
+fe 0 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 0 0 1
+fe 0 1 0
+fe 1 0 0
+fe -1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 -1 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 1 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe -1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 1 1
+fe 0 1 -1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 1 0
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 1 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 1 1
+fe 0 0 1
+fe 1 0 0
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 1 1
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe -1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 0 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 1 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 1 0
+fe 0 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe -1 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe -1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 0
+fe 0 1 0
+fe 1 0 0
+fe 1 0 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 1
+fe 0 0 -1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 0 1 0
+fe 0 1 1
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 1 0
+fe 0 1 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 1 0
+fe 0 1 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 0
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 0 1 0
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 0 0
+fe 0 1 0
+fe 0 0 -1
+fe 0 1 0
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 0 1 1
+fe -1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 1 0
+fe 1 0 1
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 0
+fe 1 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 -1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 0 1 1
+fe 0 0 1
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 0 1 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 1 -1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 1 0
+fe 1 0 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 1 0
+fe 0 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 0 0 -1
+fe 0 1 0
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 0 1 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 1 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 1 1
+fe 0 1 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 1 0
+fe 0 1 0
+fe 0 0 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 1 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 -1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 1
+fe 0 0 0
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 1 0
+fe 0 0 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 0 0 0
+fe 1 0 0
+fe 0 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 1 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 1 0
+fe 1 1 0
+fe 0 1 1
+fe 1 0 0
+fe 0 0 0
+fe 0 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 1 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 1 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 1 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 -1
+fe 0 0 0
+fe 0 1 1
+fe 0 0 -1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 0 0
+fe 1 0 1
+fe 0 1 0
+fe 1 0 1
+fe 0 1 1
+fe 0 0 0
+fe 1 0 1
+fe 1 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 0 0
+fe 1 0 1
+fe 0 0 1
+fe 0 1 1
+fe 0 0 1
+fe 0 1 1
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 1
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 1 0 1
+fe 0 1 1
+fe 0 1 0
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 0 1 0
+fe 0 0 0
+fe 1 0 1
+fe 1 1 0
+fe 0 0 1
+fe 0 0 0
+fe 0 1 0
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 1 1 0
+fe 1 1 0
+fe 1 0 1
+fe 0 0 1
+fe 1 1 0
+fe 1 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 1 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 0 1
+fe 0 1 0
+fe 1 0 0
+fe 1 1 0
+fe 0 1 1
+fe 0 0 0
+fe 1 1 0
+fe 1 1 0
+fe 0 0 1
+fe 1 1 0
+fe 0 0 1
+fe 1 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 0 1
+fe 0 1 0
+fe 0 1 1
+fe 1 0 1
+fe 0 0 0
+fe 0 1 0
+fe 1 0 1
+fe 0 1 1
+fe 1 0 0
+fe 0 0 1
+fe 1 1 0
+fe 1 1 0

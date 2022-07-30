@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="main.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="examples\sample1000.txt" />
+    <Text Include="examples\sample10000.txt" />
+    <Text Include="examples\sample100000.txt" />
+  </ItemGroup>
+</Project>
